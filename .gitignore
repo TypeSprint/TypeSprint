@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# cache
+.vite/
+
+# logs
+*.log
+logs/
+
+# env files (secrets)
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# pnpm
+.pnpm-store/
